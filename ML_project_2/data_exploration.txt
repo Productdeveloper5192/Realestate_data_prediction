@@ -1,0 +1,62 @@
+================================================================================
+USER PREFERENCES DATA
+================================================================================
+
+Shape: (25, 5)
+
+Columns: ['User ID', 'Budget', 'Bedrooms', 'Bathrooms', 'Qualitative Description']
+
+First few rows:
+   User ID Budget  Bedrooms  Bathrooms                                                                                                                                                                                                                                                            Qualitative Description
+0        1  $500k         3          2  "I’ve always dreamed of a modern apartment in the heart of the city, with floor-to-ceiling windows that offer a breathtaking view of the skyline. I want to be close to public transport, and having a gym and pool would be a huge bonus. Parking is a must since I have a car."
+1        2  $300k         2          1                                                       "I’m looking for a cozy little home where I can relax with my dog. A small garden or balcony would be perfect for us to enjoy the outdoors. It doesn’t need to be big, just warm and welcoming, with lots of natural light."
+2        3  $700k         4          3                                                         "My dream home is an eco-friendly sanctuary with solar panels and smart technology. I want a spacious kitchen with an island, a living room filled with natural light, and a backyard where I can grow my own vegetables."
+3        4  $250k         2          2                                      "I need a stylish, open-concept home for my growing family. A walk-in closet is a must for my partner, and I’d love a spacious living area where we can all spend time together. A modern kitchen with high-end appliances would be amazing."
+4        5  $450k         3          2                                                           "I want a beachfront property where I can wake up to the sound of waves every morning. A private pool and a modern kitchen are non-negotiable. I’d love a patio where I can enjoy my morning coffee with an ocean view."
+
+Data types:
+User ID                     int64
+Budget                     object
+Bedrooms                    int64
+Bathrooms                   int64
+Qualitative Description    object
+
+Missing values:
+User ID                    0
+Budget                     0
+Bedrooms                   0
+Bathrooms                  0
+Qualitative Description    0
+
+
+================================================================================
+PROPERTY CHARACTERISTICS DATA
+================================================================================
+
+Shape: (30, 6)
+
+Columns: ['Property ID', 'Price', 'Bedrooms', 'Bathrooms', 'Living Area (sq ft)', 'Qualitative Description']
+
+First few rows:
+   Property ID  Price  Bedrooms  Bathrooms  Living Area (sq ft)                                                                                                                                                                                                                                                                                                      Qualitative Description
+0            1  $800k         5          2                 2668  A hidden gem nestled among towering oak trees, this home exudes warmth and character. Sunlight floods the open living spaces, while the cozy reading nook offers the perfect escape with a cup of coffee. The backyard boasts a custom-built fire pit and a garden brimming with seasonal blooms, creating a private oasis.
+1            2  $400k         4          1                 1982                Step inside this elegant retreat and be greeted by soaring ceilings and intricate crown moldings. The gourmet kitchen features a marble island, designer lighting, and a wine fridge, perfect for entertaining. Outside, a covered patio overlooks a serene koi pond, adding to the home's tranquil ambiance.
+2            3  $250k         4          1                 1674                                   Modern yet inviting, this residence features an airy loft-style layout with exposed beams and a statement fireplace. The spa-like bathroom boasts a rainfall shower and heated floors, while the private deck provides panoramic city viewsâ€”ideal for morning yoga or evening cocktails.
+3            4  $600k         2          4                 3817                                                              A charming cottage-style home with a wraparound porch, this property feels like a storybook retreat. The antique-inspired kitchen features butcher block counters and vintage cabinetry, while the cozy sunroom is perfect for relaxing afternoons with a book.
+4            5  $250k         4          3                 2943               Tucked away in a vibrant neighborhood, this home balances historic charm with modern updates. Original hardwood floors and stained-glass windows meet a newly remodeled chefâ€™s kitchen and smart-home automation. The lush backyard, complete with a hammock and string lights, is an entertainerâ€™s dream.
+
+Data types:
+Property ID                 int64
+Price                      object
+Bedrooms                    int64
+Bathrooms                   int64
+Living Area (sq ft)         int64
+Qualitative Description    object
+
+Missing values:
+Property ID                0
+Price                      0
+Bedrooms                   0
+Bathrooms                  0
+Living Area (sq ft)        0
+Qualitative Description    0

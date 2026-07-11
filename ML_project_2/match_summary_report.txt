@@ -1,0 +1,471 @@
+================================================================================
+PROPERTY MATCHING SYSTEM - SUMMARY REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total Users: 25
+Total Properties: 30
+Total Match Scores Calculated: 750
+
+Average Match Score: 38.88
+Median Match Score: 38.51
+Std Dev: 12.70
+Min Score: 6.95
+Max Score: 70.43
+
+
+================================================================================
+TOP 3 PROPERTY MATCHES FOR EACH USER
+================================================================================
+
+
+USER 1
+Budget: $500k, Bedrooms: 3, Bathrooms: 2
+Preferences: "I’ve always dreamed of a modern apartment in the heart of the city, with floor-to-ceiling windows that offer a breathtaking view of the skyline. I wa...
+--------------------------------------------------------------------------------
+
+  Property 30 - Match Score: 58.6
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 83.8 | Semantic Score: 0.0
+
+  Property 20 - Match Score: 58.6
+  Price: $500k, Bedrooms: 3, Bathrooms: 3, Area: 1884 sq ft
+  Weighted Score: 83.7 | Semantic Score: 0.0
+
+  Property 14 - Match Score: 56.5
+  Price: $500k, Bedrooms: 3, Bathrooms: 1, Area: 1198 sq ft
+  Weighted Score: 80.3 | Semantic Score: 1.1
+
+
+USER 2
+Budget: $300k, Bedrooms: 2, Bathrooms: 1
+Preferences: "I’m looking for a cozy little home where I can relax with my dog. A small garden or balcony would be perfect for us to enjoy the outdoors. It doesn’t...
+--------------------------------------------------------------------------------
+
+  Property 18 - Match Score: 69.7
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 3791 sq ft
+  Weighted Score: 99.0 | Semantic Score: 1.2
+
+  Property 19 - Match Score: 66.7
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 2922 sq ft
+  Weighted Score: 94.7 | Semantic Score: 1.2
+
+  Property 6 - Match Score: 63.6
+  Price: $300k, Bedrooms: 1, Bathrooms: 1, Area: 2985 sq ft
+  Weighted Score: 88.8 | Semantic Score: 4.7
+
+
+USER 3
+Budget: $700k, Bedrooms: 4, Bathrooms: 3
+Preferences: "My dream home is an eco-friendly sanctuary with solar panels and smart technology. I want a spacious kitchen with an island, a living room filled wit...
+--------------------------------------------------------------------------------
+
+  Property 29 - Match Score: 66.7
+  Price: $700k, Bedrooms: 5, Bathrooms: 3, Area: 3982 sq ft
+  Weighted Score: 93.7 | Semantic Score: 3.8
+
+  Property 30 - Match Score: 60.2
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 84.6 | Semantic Score: 3.2
+
+  Property 9 - Match Score: 56.8
+  Price: $400k, Bedrooms: 4, Bathrooms: 3, Area: 3647 sq ft
+  Weighted Score: 81.2 | Semantic Score: 0.0
+
+
+USER 4
+Budget: $250k, Bedrooms: 2, Bathrooms: 2
+Preferences: "I need a stylish, open-concept home for my growing family. A walk-in closet is a must for my partner, and I’d love a spacious living area where we ca...
+--------------------------------------------------------------------------------
+
+  Property 17 - Match Score: 57.1
+  Price: $250k, Bedrooms: 4, Bathrooms: 3, Area: 3801 sq ft
+  Weighted Score: 80.6 | Semantic Score: 2.5
+
+  Property 18 - Match Score: 55.4
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 3791 sq ft
+  Weighted Score: 77.0 | Semantic Score: 4.8
+
+  Property 5 - Match Score: 54.7
+  Price: $250k, Bedrooms: 4, Bathrooms: 3, Area: 2943 sq ft
+  Weighted Score: 76.3 | Semantic Score: 4.1
+
+
+USER 5
+Budget: $450k, Bedrooms: 3, Bathrooms: 2
+Preferences: "I want a beachfront property where I can wake up to the sound of waves every morning. A private pool and a modern kitchen are non-negotiable. I’d lov...
+--------------------------------------------------------------------------------
+
+  Property 9 - Match Score: 58.2
+  Price: $400k, Bedrooms: 4, Bathrooms: 3, Area: 3647 sq ft
+  Weighted Score: 81.6 | Semantic Score: 3.5
+
+  Property 30 - Match Score: 53.0
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 74.9 | Semantic Score: 2.0
+
+  Property 20 - Match Score: 52.7
+  Price: $500k, Bedrooms: 3, Bathrooms: 3, Area: 1884 sq ft
+  Weighted Score: 74.8 | Semantic Score: 1.1
+
+
+USER 6
+Budget: $600k, Bedrooms: 4, Bathrooms: 3
+Preferences: "I’m looking for a luxurious home where I can entertain my friends. A home theater and a wine cellar are must-haves. I’d also love a spacious backyard...
+--------------------------------------------------------------------------------
+
+  Property 30 - Match Score: 63.5
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 89.4 | Semantic Score: 3.2
+
+  Property 16 - Match Score: 60.6
+  Price: $600k, Bedrooms: 4, Bathrooms: 1, Area: 3612 sq ft
+  Weighted Score: 86.1 | Semantic Score: 1.2
+
+  Property 8 - Match Score: 60.6
+  Price: $600k, Bedrooms: 4, Bathrooms: 2, Area: 1874 sq ft
+  Weighted Score: 83.6 | Semantic Score: 6.8
+
+
+USER 7
+Budget: $350k, Bedrooms: 2, Bathrooms: 1
+Preferences: "I’d love a cozy cabin with a fireplace and a view of the mountains. It doesn’t need to be big, just warm and inviting, with lots of wood accents. A s...
+--------------------------------------------------------------------------------
+
+  Property 18 - Match Score: 65.3
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 3791 sq ft
+  Weighted Score: 93.3 | Semantic Score: 0.0
+
+  Property 19 - Match Score: 62.7
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 2922 sq ft
+  Weighted Score: 89.0 | Semantic Score: 1.2
+
+  Property 6 - Match Score: 58.5
+  Price: $300k, Bedrooms: 1, Bathrooms: 1, Area: 2985 sq ft
+  Weighted Score: 83.1 | Semantic Score: 1.2
+
+
+USER 8
+Budget: $400k, Bedrooms: 3, Bathrooms: 2
+Preferences: "I want a historic home with character, close to downtown. Hardwood floors, high ceilings, and large windows are a must. I’d love a backyard where I c...
+--------------------------------------------------------------------------------
+
+  Property 9 - Match Score: 60.6
+  Price: $400k, Bedrooms: 4, Bathrooms: 3, Area: 3647 sq ft
+  Weighted Score: 86.1 | Semantic Score: 1.2
+
+  Property 2 - Match Score: 55.2
+  Price: $400k, Bedrooms: 4, Bathrooms: 1, Area: 1982 sq ft
+  Weighted Score: 77.9 | Semantic Score: 2.2
+
+  Property 18 - Match Score: 54.1
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 3791 sq ft
+  Weighted Score: 76.8 | Semantic Score: 1.3
+
+
+USER 9
+Budget: $550k, Bedrooms: 3, Bathrooms: 2
+Preferences: "Dreaming of a mountain home with easy access to skiing. A hot tub on the deck would be amazing for relaxing after a day on the slopes. I’d also love ...
+--------------------------------------------------------------------------------
+
+  Property 20 - Match Score: 57.8
+  Price: $500k, Bedrooms: 3, Bathrooms: 3, Area: 1884 sq ft
+  Weighted Score: 80.0 | Semantic Score: 6.1
+
+  Property 30 - Match Score: 57.1
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 80.1 | Semantic Score: 3.2
+
+  Property 16 - Match Score: 55.0
+  Price: $600k, Bedrooms: 4, Bathrooms: 1, Area: 3612 sq ft
+  Weighted Score: 78.6 | Semantic Score: 0.0
+
+
+USER 10
+Budget: $200k, Bedrooms: 2, Bathrooms: 1
+Preferences: "Looking for a small home in a walkable area with a patio for outdoor dining. I’d love a cozy living room with lots of natural light and a kitchen wit...
+--------------------------------------------------------------------------------
+
+  Property 18 - Match Score: 41.7
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 3791 sq ft
+  Weighted Score: 59.0 | Semantic Score: 1.3
+
+  Property 3 - Match Score: 39.3
+  Price: $250k, Bedrooms: 4, Bathrooms: 1, Area: 1674 sq ft
+  Weighted Score: 56.1 | Semantic Score: 0.0
+
+  Property 17 - Match Score: 39.0
+  Price: $250k, Bedrooms: 4, Bathrooms: 3, Area: 3801 sq ft
+  Weighted Score: 54.6 | Semantic Score: 2.7
+
+
+USER 11
+Budget: $800k, Bedrooms: 5, Bathrooms: 4
+Preferences: "I want a spacious home with an ocean view, a pool, and a home gym. A modern kitchen with high-end appliances and a large island is a must. I’d also l...
+--------------------------------------------------------------------------------
+
+  Property 29 - Match Score: 63.0
+  Price: $700k, Bedrooms: 5, Bathrooms: 3, Area: 3982 sq ft
+  Weighted Score: 88.9 | Semantic Score: 2.5
+
+  Property 7 - Match Score: 61.9
+  Price: $800k, Bedrooms: 5, Bathrooms: 4, Area: 1647 sq ft
+  Weighted Score: 88.5 | Semantic Score: 0.0
+
+  Property 1 - Match Score: 58.3
+  Price: $800k, Bedrooms: 5, Bathrooms: 2, Area: 2668 sq ft
+  Weighted Score: 81.5 | Semantic Score: 4.2
+
+
+USER 12
+Budget: $300k, Bedrooms: 2, Bathrooms: 1
+Preferences: "Looking for a sustainable home with solar panels and a small garden. I’d love a cozy living room with a fireplace and a kitchen with energy-efficient...
+--------------------------------------------------------------------------------
+
+  Property 18 - Match Score: 69.7
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 3791 sq ft
+  Weighted Score: 99.0 | Semantic Score: 1.3
+
+  Property 19 - Match Score: 66.7
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 2922 sq ft
+  Weighted Score: 94.7 | Semantic Score: 1.2
+
+  Property 6 - Match Score: 63.7
+  Price: $300k, Bedrooms: 1, Bathrooms: 1, Area: 2985 sq ft
+  Weighted Score: 88.8 | Semantic Score: 5.0
+
+
+USER 13
+Budget: $500k, Bedrooms: 4, Bathrooms: 3
+Preferences: "I need a family-friendly home with a big backyard and a pool. A modern kitchen with an island and a spacious living room are must-haves. I’d also lov...
+--------------------------------------------------------------------------------
+
+  Property 30 - Match Score: 68.2
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 96.0 | Semantic Score: 3.2
+
+  Property 9 - Match Score: 63.2
+  Price: $400k, Bedrooms: 4, Bathrooms: 3, Area: 3647 sq ft
+  Weighted Score: 90.3 | Semantic Score: 0.0
+
+  Property 20 - Match Score: 58.7
+  Price: $500k, Bedrooms: 3, Bathrooms: 3, Area: 1884 sq ft
+  Weighted Score: 83.4 | Semantic Score: 1.2
+
+
+USER 14
+Budget: $350k, Bedrooms: 3, Bathrooms: 2
+Preferences: "I want a modern home with a desert landscape and a pool. A spacious kitchen with an island and a living room with large windows would be perfect. I’d...
+--------------------------------------------------------------------------------
+
+  Property 26 - Match Score: 57.5
+  Price: $300k, Bedrooms: 2, Bathrooms: 2, Area: 2550 sq ft
+  Weighted Score: 81.0 | Semantic Score: 2.7
+
+  Property 18 - Match Score: 57.1
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 3791 sq ft
+  Weighted Score: 81.0 | Semantic Score: 1.3
+
+  Property 19 - Match Score: 54.9
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 2922 sq ft
+  Weighted Score: 76.8 | Semantic Score: 3.9
+
+
+USER 15
+Budget: $450k, Bedrooms: 3, Bathrooms: 2
+Preferences: "Looking for a home with a music room and a patio for outdoor entertaining. I’d love a cozy living room with a fireplace and a kitchen with enough spa...
+--------------------------------------------------------------------------------
+
+  Property 9 - Match Score: 57.1
+  Price: $400k, Bedrooms: 4, Bathrooms: 3, Area: 3647 sq ft
+  Weighted Score: 81.6 | Semantic Score: 0.0
+
+  Property 30 - Match Score: 53.4
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 74.9 | Semantic Score: 3.2
+
+  Property 20 - Match Score: 53.0
+  Price: $500k, Bedrooms: 3, Bathrooms: 3, Area: 1884 sq ft
+  Weighted Score: 74.8 | Semantic Score: 2.4
+
+
+USER 16
+Budget: $600k, Bedrooms: 4, Bathrooms: 3
+Preferences: "I want a historic home in a walkable neighborhood with hardwood floors. High ceilings, large windows, and a backyard for hosting small gatherings are...
+--------------------------------------------------------------------------------
+
+  Property 30 - Match Score: 63.2
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 89.4 | Semantic Score: 2.1
+
+  Property 16 - Match Score: 60.3
+  Price: $600k, Bedrooms: 4, Bathrooms: 1, Area: 3612 sq ft
+  Weighted Score: 86.1 | Semantic Score: 0.0
+
+  Property 9 - Match Score: 59.8
+  Price: $400k, Bedrooms: 4, Bathrooms: 3, Area: 3647 sq ft
+  Weighted Score: 85.0 | Semantic Score: 1.1
+
+
+USER 17
+Budget: $250k, Bedrooms: 2, Bathrooms: 1
+Preferences: "Looking for a home near theme parks with a pool for the kids. A cozy living room and a kitchen with enough space for cooking are must-haves. I’d also...
+--------------------------------------------------------------------------------
+
+  Property 18 - Match Score: 58.5
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 3791 sq ft
+  Weighted Score: 83.0 | Semantic Score: 1.3
+
+  Property 19 - Match Score: 55.5
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 2922 sq ft
+  Weighted Score: 78.7 | Semantic Score: 1.2
+
+  Property 3 - Match Score: 53.3
+  Price: $250k, Bedrooms: 4, Bathrooms: 1, Area: 1674 sq ft
+  Weighted Score: 76.1 | Semantic Score: 0.0
+
+
+USER 18
+Budget: $700k, Bedrooms: 5, Bathrooms: 4
+Preferences: "Dreaming of a tech-friendly home with smart features and a modern design. A spacious kitchen with high-end appliances, a home theater, and a backyard...
+--------------------------------------------------------------------------------
+
+  Property 29 - Match Score: 66.8
+  Price: $700k, Bedrooms: 5, Bathrooms: 3, Area: 3982 sq ft
+  Weighted Score: 93.9 | Semantic Score: 3.4
+
+  Property 12 - Match Score: 56.3
+  Price: $700k, Bedrooms: 5, Bathrooms: 1, Area: 3104 sq ft
+  Weighted Score: 77.6 | Semantic Score: 6.6
+
+  Property 7 - Match Score: 53.9
+  Price: $800k, Bedrooms: 5, Bathrooms: 4, Area: 1647 sq ft
+  Weighted Score: 77.1 | Semantic Score: 0.0
+
+
+USER 19
+Budget: $400k, Bedrooms: 3, Bathrooms: 2
+Preferences: "I’d love a home with a lake view and a cozy fireplace. A spacious kitchen with an island and a living room with large windows would be perfect. I’d a...
+--------------------------------------------------------------------------------
+
+  Property 9 - Match Score: 60.9
+  Price: $400k, Bedrooms: 4, Bathrooms: 3, Area: 3647 sq ft
+  Weighted Score: 86.1 | Semantic Score: 2.3
+
+  Property 2 - Match Score: 55.8
+  Price: $400k, Bedrooms: 4, Bathrooms: 1, Area: 1982 sq ft
+  Weighted Score: 77.9 | Semantic Score: 4.3
+
+  Property 26 - Match Score: 54.4
+  Price: $300k, Bedrooms: 2, Bathrooms: 2, Area: 2550 sq ft
+  Weighted Score: 76.7 | Semantic Score: 2.5
+
+
+USER 20
+Budget: $500k, Bedrooms: 4, Bathrooms: 3
+Preferences: "Looking for a home near a golf course with a pool and a spacious kitchen. A cozy living room with a fireplace and a backyard for outdoor entertaining...
+--------------------------------------------------------------------------------
+
+  Property 30 - Match Score: 68.7
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 96.0 | Semantic Score: 5.1
+
+  Property 9 - Match Score: 63.2
+  Price: $400k, Bedrooms: 4, Bathrooms: 3, Area: 3647 sq ft
+  Weighted Score: 90.3 | Semantic Score: 0.0
+
+  Property 20 - Match Score: 59.3
+  Price: $500k, Bedrooms: 3, Bathrooms: 3, Area: 1884 sq ft
+  Weighted Score: 83.4 | Semantic Score: 3.2
+
+
+USER 21
+Budget: $300k, Bedrooms: 2, Bathrooms: 1
+Preferences: "I want a waterfront property with a boat dock and a modern design. A cozy living room with large windows and a kitchen with enough space for cooking ...
+--------------------------------------------------------------------------------
+
+  Property 18 - Match Score: 70.4
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 3791 sq ft
+  Weighted Score: 99.0 | Semantic Score: 3.8
+
+  Property 19 - Match Score: 66.7
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 2922 sq ft
+  Weighted Score: 94.7 | Semantic Score: 1.2
+
+  Property 6 - Match Score: 64.8
+  Price: $300k, Bedrooms: 1, Bathrooms: 1, Area: 2985 sq ft
+  Weighted Score: 88.8 | Semantic Score: 8.8
+
+
+USER 22
+Budget: $450k, Bedrooms: 3, Bathrooms: 2
+Preferences: "Looking for a walkable home with an open floor plan and a backyard. A modern kitchen with an island and a cozy living room with a fireplace would be ...
+--------------------------------------------------------------------------------
+
+  Property 9 - Match Score: 57.8
+  Price: $400k, Bedrooms: 4, Bathrooms: 3, Area: 3647 sq ft
+  Weighted Score: 81.6 | Semantic Score: 2.2
+
+  Property 30 - Match Score: 54.6
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 74.9 | Semantic Score: 7.2
+
+  Property 20 - Match Score: 53.3
+  Price: $500k, Bedrooms: 3, Bathrooms: 3, Area: 1884 sq ft
+  Weighted Score: 74.8 | Semantic Score: 3.2
+
+
+USER 23
+Budget: $550k, Bedrooms: 4, Bathrooms: 3
+Preferences: "Dreaming of a home with mountain views and easy access to skiing. A cozy living room with a fireplace and a modern kitchen with high-end appliances a...
+--------------------------------------------------------------------------------
+
+  Property 30 - Match Score: 65.9
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 92.4 | Semantic Score: 4.2
+
+  Property 9 - Match Score: 62.6
+  Price: $400k, Bedrooms: 4, Bathrooms: 3, Area: 3647 sq ft
+  Weighted Score: 87.4 | Semantic Score: 4.6
+
+  Property 20 - Match Score: 57.2
+  Price: $500k, Bedrooms: 3, Bathrooms: 3, Area: 1884 sq ft
+  Weighted Score: 79.8 | Semantic Score: 4.5
+
+
+USER 24
+Budget: $350k, Bedrooms: 2, Bathrooms: 1
+Preferences: "I want a quiet home with a patio and a small garden. A cozy living room with lots of natural light and a kitchen with enough space for cooking are mu...
+--------------------------------------------------------------------------------
+
+  Property 18 - Match Score: 65.7
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 3791 sq ft
+  Weighted Score: 93.3 | Semantic Score: 1.2
+
+  Property 19 - Match Score: 62.7
+  Price: $300k, Bedrooms: 2, Bathrooms: 1, Area: 2922 sq ft
+  Weighted Score: 89.0 | Semantic Score: 1.2
+
+  Property 6 - Match Score: 62.1
+  Price: $300k, Bedrooms: 1, Bathrooms: 1, Area: 2985 sq ft
+  Weighted Score: 83.1 | Semantic Score: 13.1
+
+
+USER 25
+Budget: $600k, Bedrooms: 4, Bathrooms: 3
+Preferences: "Looking for a luxurious home with a pool, outdoor kitchen, and a home gym. A modern kitchen with high-end appliances and a cozy living room with a fi...
+--------------------------------------------------------------------------------
+
+  Property 30 - Match Score: 64.0
+  Price: $500k, Bedrooms: 4, Bathrooms: 3, Area: 3184 sq ft
+  Weighted Score: 89.4 | Semantic Score: 4.9
+
+  Property 8 - Match Score: 61.1
+  Price: $600k, Bedrooms: 4, Bathrooms: 2, Area: 1874 sq ft
+  Weighted Score: 83.6 | Semantic Score: 8.4
+
+  Property 16 - Match Score: 60.3
+  Price: $600k, Bedrooms: 4, Bathrooms: 1, Area: 3612 sq ft
+  Weighted Score: 86.1 | Semantic Score: 0.0
+
