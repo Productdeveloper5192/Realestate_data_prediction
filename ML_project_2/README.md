@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ### Run Batch Analysis
 Generate all visualizations and reports:
 ```bash
-python property_matcher.py
+python batch_analysis.py
 ```
 
 This creates:
@@ -67,7 +67,7 @@ This creates:
 ### Run Interactive UI
 Launch the Streamlit interface:
 ```bash
-streamlit run property_matcher.py
+streamlit run app.py
 ```
 
 Features:
@@ -80,7 +80,11 @@ Features:
 
 ```
 ML_project_2/
-├── property_matcher.py          # Single comprehensive solution file
+├── matching_engine.py           # PropertyMatchingSystem: data loading, preprocessing, scoring
+├── visualization.py             # Heatmap, distribution, and top-matches chart generation + report
+├── batch_analysis.py            # CLI entry point: python batch_analysis.py
+├── app.py                       # Streamlit entry point: streamlit run app.py
+├── explore_data.py              # One-off exploratory data analysis script
 ├── Case Study 2 Data.xlsx       # Input data (User & Property)
 ├── requirements.txt             # Python dependencies
 ├── README.md                    # This file
@@ -127,7 +131,7 @@ Properties with highest average match scores across all users:
 2. **Budget Penalty**: Properties over budget receive heavy penalties
 3. **Text Matching**: Captures qualitative preferences like "modern", "cozy", "spacious"
 4. **Weighted Scoring**: Price matters most (40%), followed by bedrooms/bathrooms
-5. **Single File Architecture**: All code in one file for easy deployment and sharing
+5. **Separation of Concerns**: matching logic, visualization, and the two entry points (batch CLI and Streamlit UI) each live in their own module
 
 ## 🎨 Visualizations
 
@@ -148,7 +152,7 @@ Horizontal bar charts showing:
 
 ## 🔧 Customization
 
-The system is highly customizable through the `PropertyMatchingSystem` class:
+The system is highly customizable through the `PropertyMatchingSystem` class in `matching_engine.py`:
 
 ```python
 # Adjust weights in calculate_weighted_score()
@@ -188,6 +192,3 @@ This project is developed for educational purposes as part of a data science cas
 Agent Mira - Data Science Case Study 2026
 **Product Developer:** Ramakrishna_Product_Developer
 
----
-
-**Note**: All code is contained in a **single file** (`property_matcher.py`) for easy sharing and deployment.
